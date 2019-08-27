@@ -58,7 +58,7 @@ def number_to_full_month_name(num)
   when 10
     return "October"
   when 11
-    return "Novemeber"
+    return "November"
   when 12
     return "December"
   end
